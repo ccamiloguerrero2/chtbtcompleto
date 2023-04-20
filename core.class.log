@@ -1,0 +1,152 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152885138@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00EF396C2AC79F5C993',
+    participant: undefined
+  },
+  messageTimestamp: 1682030395,
+  pushName: 'CCG',
+  message: Message {
+    conversation: '.consulta1!',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '.consulta1!',
+  from: '573152885138'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152885138@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C4950AED62545CCE32',
+    participant: undefined
+  },
+  messageTimestamp: 1682030396,
+  pushName: 'CCG',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573152885138'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152885138@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0440BC4A80735B44B93',
+    participant: undefined
+  },
+  messageTimestamp: 1682030397,
+  pushName: 'CCG',
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '573152885138'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152885138@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB060EC7AAFDB940A8E8C',
+    participant: undefined
+  },
+  messageTimestamp: 1682030399,
+  pushName: 'CCG',
+  message: Message {
+    conversation: '111111111',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '111111111',
+  from: '573152885138'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152885138@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0805672FD23D2B46289',
+    participant: undefined
+  },
+  messageTimestamp: 1682030480,
+  pushName: 'CCG',
+  message: Message {
+    conversation: '.consulta1!',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '.consulta1!',
+  from: '573152885138'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152885138@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08E80E23FFCD98C5EB1',
+    participant: undefined
+  },
+  messageTimestamp: 1682030482,
+  pushName: 'CCG',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573152885138'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152885138@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B708B8281C5B007D3B',
+    participant: undefined
+  },
+  messageTimestamp: 1682030483,
+  pushName: 'CCG',
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '573152885138'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152885138@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F8E9882B65A29D68CB',
+    participant: undefined
+  },
+  messageTimestamp: 1682030486,
+  pushName: 'CCG',
+  message: Message {
+    conversation: '31.577.856',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '31.577.856',
+  from: '573152885138'
+}
